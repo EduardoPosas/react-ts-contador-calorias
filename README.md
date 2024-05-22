@@ -20,4 +20,4 @@ Para desarrollar la aplicación, se utiliza:
 
 2. Resumen de la actividad y las actividades agregadas
 
-![contador calorias resumen](./public/assets/contador-calorias-form.png)
+![contador calorias resumen](./public/assets/contador-calorias-resumen.png)
